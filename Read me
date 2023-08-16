@@ -1,0 +1,21 @@
+# Simple Text Editor using Tkinter
+
+
+This is a simple text editor created using Python's Tkinter library. It provides basic text editing functionalities such as creating new files, opening existing files, and saving files.
+
+## Features
+
+- Create new text files.
+- Open existing text files.
+- Save files with content.
+- Basic menu bar for easy navigation.
+
+## Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+- Python 3.x
+- Tkinter 8.6 (Usually comes pre-installed with Python)
+
